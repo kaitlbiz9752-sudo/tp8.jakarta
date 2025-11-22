@@ -85,3 +85,9 @@ Une page de connexion par défaut de Spring Security apparaît.
 
 
 <img width="648" height="537" alt="Capture d&#39;écran 2025-11-23 000538" src="https://github.com/user-attachments/assets/dfc6be3b-96d7-4fd4-a07f-11a9340bf4ef" />
+
+
+
+
+<img width="719" height="333" alt="image" src="https://github.com/user-attachments/assets/4603181a-5537-4d6d-9468-51abb220f5dc" />
+
